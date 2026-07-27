@@ -15,13 +15,9 @@ CS Undergrad @ Sukkur IBA University • MERN Stack + Claude/Gemini/Groq APIs �
 
 ### 🚀 About Me
 
-- 🎓 3rd-year CS student at **Sukkur IBA University**, graduating May 2027
-- 💼 Currently doing an **ML internship at FlyRank**
-- 🛠️ Previously interned as a **Full Stack / Frontend / Web Developer** at Naya Qadam, Code Enlights & Rayonix Solutions
-- 🧠 I build AI-powered full stack apps — from privacy-first web tools to job-application agents
-- 🏆 Active hackathon competitor: **1st place (IBA Hackathon – E-Commerce)**, **3rd place (SIBATHON 2026 – Fintech)**, **2nd place (SMIT Frontend Hackathon)**
-- 📚 Long-term goals: **GSoC 2027**, **MLH Fellowship**, **NIC Islamabad**
-- 💬 Ask me about React/Next.js, Supabase, or integrating LLM APIs into real products
+- 🎓 CS student @ **Sukkur IBA University** | 💼 ML Intern @ **FlyRank**
+- 🏆 Hackathon wins: 1st (IBA E-Commerce), 3rd (SIBATHON Fintech), 2nd (SMIT Frontend)
+- 🧠 I build AI-powered full stack apps
 
 ---
 
